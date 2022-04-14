@@ -7,6 +7,7 @@ Atualmente trabalhando com:
 - HTML/CSS
 - JavaScript
 - React e Redux 
+- Git e GitHub
 
 [trybeLink]: https://www.betrybe.com/
 <!--
