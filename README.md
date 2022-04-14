@@ -1,5 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Lucas
 
+Estudante na [Trybe][trybeLink]  cada dia mais apaixonado por programação.
+
+Meu dia-a-dia é focado em tecnologias de Desenvolvimento Web.
+Atualmente trabalhando com:
+- HTML/CSS
+- JavaScript
+- React e Redux 
+
+[trybeLink]: https://www.betrybe.com/
 <!--
 **lucasbaq/lucasbaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
