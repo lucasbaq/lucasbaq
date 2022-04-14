@@ -1,6 +1,6 @@
-### Olá, eu sou o Lucas
+## Olá, eu sou o Lucas
 
-Estudante na [Trybe][trybeLink]  cada dia mais apaixonado por programação.
+#### Estudante na [Trybe][trybeLink]  cada dia mais apaixonado por programação.
 
 Meu dia-a-dia é focado em tecnologias de Desenvolvimento Web.
 Atualmente trabalhando com:
