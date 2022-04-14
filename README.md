@@ -9,7 +9,7 @@ Atualmente trabalhando com:
 - React e Redux 
 - Git e GitHub
 
-![image]({https://github-readme-stats.vercel.app/api?username=lucasbaq})
+![image]({https://github-readme-stats.vercel.app/api?username={lucasbaq}})
 
 [trybeLink]: https://www.betrybe.com/
 <!--
