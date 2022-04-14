@@ -9,8 +9,6 @@ Atualmente trabalhando com:
 - React e Redux 
 - Git e GitHub
 
-![image]({https://github-readme-stats.vercel.app/api?username={lucasbaq}})
-
 [trybeLink]: https://www.betrybe.com/
 <!--
 **lucasbaq/lucasbaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
