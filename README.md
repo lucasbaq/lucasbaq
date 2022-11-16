@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Bernardo
 ===============================
 
-Futuro Full Stack Web Developer
+Full Stack Web Developer
 -------------------------------
 Estudante na [Trybe][trybeLink]  cada dia mais apaixonado por programação.
 
