@@ -3,11 +3,11 @@ Hi 👋 My name is Lucas Bernardo
 
 Full Stack Web Developer
 -------------------------------
-Estudante na [Trybe][trybeLink]  cada dia mais apaixonado por programação.
+Dev formado na [Trybe][trybeLink] cada dia mais apaixonado por programação.
 
 Sou um estudante apaixonado em lógica e programação. Futuro Dev, sempre disposto à trabalhar em equipe. Inspirado pela vontade de me desafiar mais a cada dia e a vontade de fazer a diferença onde eu estou. Trabalho ativamente com HTML, CSS, JS e React e estou aprendendo SQL.
 
-I'm a student in love with logic and programming. Dev to be, always ready to work in a team. Inspired by the will to challenge myself every day and the will to be the difference where I am. I work with HTML, CSS, JS and React daily and I'm learning SQL.
+I'm a Dev in love with logic and programming. Always ready to work in a team. Inspired by the will to challenge myself every day and the will to be the difference where I am. I work with HTML, CSS, JS and React daily and I'm learning SQL.
 
 * 🌍  I'm based in Nova Lima, Minas Gerais - Brasil
 * 🖥️  See my portfolio at [My portifolio](http://lucasbaq.github.io/)
